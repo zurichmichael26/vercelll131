@@ -1,0 +1,4 @@
+baseURL = "https://pianomusickocak8.vercel.app"
+languageCode = "en-us"
+title = "Piano Sheet Music Free"
+theme = "tale-hugo-master"
